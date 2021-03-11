@@ -8,7 +8,7 @@
 
 **GNU OS** = **tools(library) + kernel** 組合而成
 * GNU當時已把 library 做完，但 kernel 遲遲未完成，直到芬蘭大學生完成 kernel 層 => **linux**
-* 所以 **linux** 其實一開始是**實作 kernel 層**，只是後來被混用成 os
+* 所以 **linux** 其實一開始是**實作 kernel 層**，只是後來被混用成 OS
 
 ## 生態
 
